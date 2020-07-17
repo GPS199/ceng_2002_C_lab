@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1587070310 source:c:\users\cihan\desktop\workspace c\lab10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"precision.c"
+
+1587074409 c:\users\cihan\desktop\workspace c\lab10\precision.c
+	<stdio.h>
+	"precision.h"
+	<math.h>
+
+1587070286 c:\users\cihan\desktop\workspace c\lab10\precision.h
+
